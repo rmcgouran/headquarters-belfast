@@ -1,0 +1,41 @@
+.coming-soon-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #333; /* Dark grey background */
+  }
+  
+  .coming-soon-text {
+    color: white;
+    font-size: 3em; /* Adjust font size as needed */
+  }
+  
+  .free-trial-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #333; /* Dark grey text */
+    border: none;
+    border-radius: 5px;
+    font-size: 1.5em;
+    cursor: pointer;
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .instagram-button-container {
+    margin-top: 20px; /* Add margin-top to create space */
+    padding-top: 10px; /* Add padding on top */
+    background-color: #333; /* Dark grey background */
+    border-radius: 5px; /* Optional: Add rounded corners */
+  }
+  
+  
+  .instagram-icon {
+    width: 40px; /* Adjust the width as needed */
+    height: 40px; /* Adjust the height as needed */
+    filter: invert(1); /* Invert the colors to make the logo white */
+    padding-top: 15px;
+  }
+  
